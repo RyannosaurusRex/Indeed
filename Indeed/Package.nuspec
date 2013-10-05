@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Indeed.Api</id>
+    <version>1.$version$</version>
+    <authors>Ryan Hayes</authors>
+    <owners>Ryan Hayes</owners>
+    <projectUrl>http://ryanhayes.net</projectUrl>
+    <description>An API wrapper for Indeed's job search API</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>Api Indeed Wrapper</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\Indeed.dll" target="lib\Indeed.dll" />
+  </files>
+</package>
